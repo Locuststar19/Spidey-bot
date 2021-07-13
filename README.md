@@ -1,1 +1,1 @@
-# Spidey-bot
+# Teacher - Bot
